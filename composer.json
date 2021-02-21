@@ -1,0 +1,15 @@
+{
+    "name": "xenonmc/xenframe",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XENONMC",
+            "email": "support@xenonmc.xyz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "xenframe/mvc-library": "dev-main"
+    }
+}

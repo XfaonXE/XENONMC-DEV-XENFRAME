@@ -1,0 +1,21 @@
+{
+    "name": "xenframe/mvc-library",
+    "description": "My first packagist package",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tibor Nagy",
+            "email": "tibornagy77@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xenframe\\MvcLibrary\\": "src/"
+        }
+    }
+}
