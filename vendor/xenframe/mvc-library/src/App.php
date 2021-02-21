@@ -1,6 +1,6 @@
 <?php
 
-namespace xenframe\mvc;
+namespace xenframe\MvcLibrary;
 
 class App {
 

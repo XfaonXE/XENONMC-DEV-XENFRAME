@@ -14,3 +14,9 @@ use xenframe\MvcLibrary\Hello;
 $comp = new Hello();
 
 use xenframe\MvcLibrary\App;
+
+$sdsad = new App();
+
+?>
+
+DEV
