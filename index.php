@@ -12,3 +12,5 @@ require_once $root . '/vendor/autoload.php';
 use xenframe\MvcLibrary\Hello;
 
 $comp = new Hello();
+
+use xenframe\MvcLibrary\App;

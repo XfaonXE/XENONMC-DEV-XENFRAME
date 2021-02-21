@@ -6,7 +6,7 @@ class App {
 
 function __construct() {
 
-echo "sadasd";
+echo "sadaskkkkkkd";
 
 }
 
